@@ -1,0 +1,18 @@
+{
+  "name": "elroy",
+  "version": "1.0.0",
+  "description": "Elroy DevOps Slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.10.2",
+    "restify": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/restify": "^5.0.5"
+  }
+}
